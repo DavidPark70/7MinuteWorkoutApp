@@ -1,4 +1,4 @@
-Workout Android App
+Simple Workout Android App
 
 ![image](https://github.com/user-attachments/assets/92d28ff2-78cb-4c32-b270-a96f72341bce)
 
